@@ -1,11 +1,5 @@
-<!-- index.php -->
-<html>
-  	<head>
-    <title>PHP Test</title>
-  	</head>
+<?php
 
-<body>
-    <?php echo '<p>Hello World</p>'; ?> 
-</body>
+echo "Hello World!";
 
-</html>
+?>
